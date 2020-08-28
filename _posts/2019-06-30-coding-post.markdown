@@ -10,11 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ```javascript
 const express = require('express')
 const app = express()
- 
+
 app.get('/', function (req, res) {
   res.send('Hello World')
 })
- 
+
 app.listen(3000)
 ```
 
@@ -22,11 +22,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam qui voluptatem
 
 ```scss
 body {
-	font-family: 'Nunito Sans', sans-serif;
-	line-height: 1.5em;
-	margin: 0;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+ font-family: 'Nunito Sans', sans-serif;
+ line-height: 1.5em;
+ margin: 0;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
 }
 ```
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam rerum, ratione impedit necessitatibus facere soluta odio repellat asperiores neque! Sunt iusto quia suscipit amet inventore eum, vel molestiae reiciendis alias.
