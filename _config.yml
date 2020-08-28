@@ -42,4 +42,3 @@ plugins:
 #  - jekyll-feed
 
 remote_theme: thelehhman/texture
-theme: texture
